@@ -1,4 +1,4 @@
-# password-matrix
+# Password Matrix
 
 
 Simple generator of fisical password matrix for creation and storage of combinations
